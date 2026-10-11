@@ -1,0 +1,13 @@
+# Ambiente virtual
+.venv/
+
+# Checkpoints automáticos do Jupyter
+.ipynb_checkpoints/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos do sistema/editor
+.DS_Store
+.vscode/
